@@ -33,7 +33,7 @@ Syntax in Markdown |
   \* Item 2a |
   \* Item 2b |
 
-**You can find out more [**here**](https://guides.github.com/features/mastering-markdown/)**
+**You can find out more [here](https://guides.github.com/features/mastering-markdown/)**
 
 
 
