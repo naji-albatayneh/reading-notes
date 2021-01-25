@@ -4,7 +4,7 @@
 
 *GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.*
 
-![GutHub]((https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png)
+![GutHub](https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png)
 
 You can access GitHub from [**Here**](https://github.com/)
 
