@@ -17,21 +17,21 @@ Syntax in Markdown | Crossponding style in HTML
 
 Syntax in Markdown | 
 ------------ | 
-\**This text will be italic*\*
-\__This will also be italic_\_
-\*\***This text will be bold**\*\*
-\_\___This will also be bold__\_\_
-\__You **\*\*can\*\*** combine them\__
+\**This text will be italic*\* |
+\__This will also be italic_\_ |
+\*\***This text will be bold**\*\* |
+\_\___This will also be bold__\_\_ |
+\__You **\*\*can\*\*** combine them\__ |
 
 
 **3. Unordered Lists in Markdown:**
 
 Syntax in Markdown | 
 ------------ | 
-\* Item 1
-\* Item 2
-  \* Item 2a
-  \* Item 2b
+\* Item 1 |
+\* Item 2 |
+  \* Item 2a |
+  \* Item 2b |
 
 **You can find out more [**here**](https://guides.github.com/features/mastering-markdown/)**
 
