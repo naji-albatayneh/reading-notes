@@ -1,22 +1,19 @@
-# Growth Mindsets
-## Open pathways to yourself for a quality life full of creativity and productivity
+# Welcome to Read Notes Page
 
-Mindset is one's own thoughts and way to approach things in his/her life. It is crucial for those who seeking better quality of life. However, there are to major types of mindset: Growth and Fixed mindsests. It takes one's attitude and perception to shift from a fixed mindset to a growth one.
-
-
-![The differences between a fixed and a growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+### Table of Content
 
 
-#### I suggest that everyone can keep him/her self on the right track of growth mindset by following these steps:
-1. Challege your insecurities.
-1. Never lose hope and keep trying.
-1. Put yourself in a positive and growth enviroment.
+1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/mindsets)**
+1. **[Reading 02a](https://naji-albatayneh.github.io/reading-notes/Reading02a)**
+    1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/markdown)**
+    1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/github)**
+1. **[Reaing 02b](https://naji-albatayneh.github.io/reading-notes/Reading02b)**
 
 
+### Biography
+**_Naji A. Albatayneh_ is about to complete his Doctorate of Philosophy degree in Information Technology from the Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Malaysia. However, in the year of 2009, Naji A. Albatayneh received his Bachelor degree in Computer Science from The Faculty of Information Technology and Computer Science, Yarmouk University, Irbid, Jordan. He had taught IT subjects to elementary and secondary levels in Jordan before he went overseas for his postgraduate studies. In Oct. 2012, he received his Master degree in Computer Science from the Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Malaysia. Naji A. Albatayneh has been conducting research work in Information Filtering, Data Mining, Natural Language Processing, Recommender Systems, User Modelling and Personalisation, and Big Data. He has published several research articles and participated in several international conferences. Furthermore, he has worked as a part-time computer science lecturer in several colleges and academies. However, Naji A. Albatayneh is currently looking for a vacant academic capacity to continue his academic career.**
 
-**You might be interested to read more about** [**Markdown using GitHub**](https://naji-albatayneh.github.io/reading-notes/Reading02a)
-
-
+________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
 
 ###### Mobile: +60-143-473374 , +962-786-324328 | E-mail: naji.albatayneh@gmail.com
