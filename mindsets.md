@@ -1,3 +1,5 @@
+[**Back**](https://naji-albatayneh.github.io/reading-notes)
+
 ## Open pathways to yourself for a quality life full of creativity and productivity
 
 Mindset is one's own thoughts and way to approach things in his/her life. It is crucial for those who seeking better quality of life. However, there are to major types of mindset: Growth and Fixed mindsests. It takes one's attitude and perception to shift from a fixed mindset to a growth one.
