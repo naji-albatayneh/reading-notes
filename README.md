@@ -8,6 +8,7 @@
     1. **[Markdown Read](https://naji-albatayneh.github.io/reading-notes/markdown)**
     1. **[GitHub Read](https://naji-albatayneh.github.io/reading-notes/github)**
 1. **[Reaing 02b](https://naji-albatayneh.github.io/reading-notes/Reading02b)**
+1. **[Reaing 03b](https://naji-albatayneh.github.io/reading-notes/Reading03b)**
 
 
 ### Biography
