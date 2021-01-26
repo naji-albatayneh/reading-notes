@@ -15,7 +15,7 @@ Mindset is one's own thoughts and way to approach things in his/her life. It is 
 
 **You might be interested to read more about** [**Markdown using GitHub**](https://naji-albatayneh.github.io/reading-notes/Reading02a)
 
-
+________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
 
 ###### Mobile: +60-143-473374 , +962-786-324328 | E-mail: naji.albatayneh@gmail.com

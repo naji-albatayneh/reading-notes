@@ -3,10 +3,10 @@
 ### Table of Content
 
 
-1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/mindsets)**
+1. **[Mindsets Read](https://naji-albatayneh.github.io/reading-notes/mindsets)**
 1. **[Reading 02a](https://naji-albatayneh.github.io/reading-notes/Reading02a)**
-    1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/markdown)**
-    1. **[Mindsets read](https://naji-albatayneh.github.io/reading-notes/github)**
+    1. **[Markdown Read](https://naji-albatayneh.github.io/reading-notes/markdown)**
+    1. **[GitHub Read](https://naji-albatayneh.github.io/reading-notes/github)**
 1. **[Reaing 02b](https://naji-albatayneh.github.io/reading-notes/Reading02b)**
 
 

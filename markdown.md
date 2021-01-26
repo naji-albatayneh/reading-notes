@@ -38,7 +38,7 @@ Syntax in Markdown |
 
 
 
-
+________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
 
 ###### Mobile: +60-143-473374 , +962-786-324328 | E-mail: naji.albatayneh@gmail.com
