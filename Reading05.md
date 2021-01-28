@@ -45,11 +45,6 @@
 *`do { //Code to be repeated i++; } while (i<10);`*
 
 
-- * `&&` Logical AND*. Returns _True_ if both conditions evaluate to _True_.
-- * `||` Logical OR*. Returns _True_ if any of the conditions evaluate to _True_ and _False_ if both evaluate to _False_.
-- * `!` Logical NOT*. Returns _True_ if a condition evaluates to _False_. It inverts the results of the condition.
-
-
 ________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
 

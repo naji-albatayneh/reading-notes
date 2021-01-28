@@ -7,10 +7,10 @@
 1. **[Reading 02a](https://naji-albatayneh.github.io/reading-notes/Reading02a)**
     1. **[Markdown Read](https://naji-albatayneh.github.io/reading-notes/markdown)**
     1. **[GitHub Read](https://naji-albatayneh.github.io/reading-notes/github)**
-1. **[Reaing 02b](https://naji-albatayneh.github.io/reading-notes/Reading02b)**
-1. **[Reaing 03b](https://naji-albatayneh.github.io/reading-notes/Reading03b)**
-1. **[Reaing 04](https://naji-albatayneh.github.io/reading-notes/Reading04)**
-1. **[Reaing 05](https://naji-albatayneh.github.io/reading-notes/Reading05)**
+1. **[Reading 02b](https://naji-albatayneh.github.io/reading-notes/Reading02b)**
+1. **[Reading 03b](https://naji-albatayneh.github.io/reading-notes/Reading03b)**
+1. **[Reading 04](https://naji-albatayneh.github.io/reading-notes/Reading04)**
+1. **[Reading 05](https://naji-albatayneh.github.io/reading-notes/Reading05)**
 
 
 ### Biography
