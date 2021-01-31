@@ -11,6 +11,7 @@
 1. **[Reading 03b](https://naji-albatayneh.github.io/reading-notes/Reading03b)**
 1. **[Reading 04](https://naji-albatayneh.github.io/reading-notes/Reading04)**
 1. **[Reading 05](https://naji-albatayneh.github.io/reading-notes/Reading05)**
+1. **[Reading 06a](https://naji-albatayneh.github.io/reading-notes/Reading06a)**
 
 
 ### Biography
