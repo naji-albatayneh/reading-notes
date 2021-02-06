@@ -2,6 +2,7 @@
 
 ### Table of Content
 
+#### Code 102 Reading Notes
 
 1. **[Mindsets Read](https://naji-albatayneh.github.io/reading-notes/mindsets)**
 1. **[Reading 02a](https://naji-albatayneh.github.io/reading-notes/Reading02a)**
@@ -12,6 +13,28 @@
 1. **[Reading 04](https://naji-albatayneh.github.io/reading-notes/Reading04)**
 1. **[Reading 05](https://naji-albatayneh.github.io/reading-notes/Reading05)**
 1. **[Reading 06a](https://naji-albatayneh.github.io/reading-notes/Reading06a)**
+
+
+#### Code 201 Reading Notes
+
+Readings |
+------------ |
+1. **[Reading 01]()**
+1. **[Reading 02]()**
+1. **[Reading 03]()**
+1. **[Reading 04]()**
+1. **[Reading 05]()**
+1. **[Reading 06]()**
+1. **[Reading 07]()**
+1. **[Reading 08]()**
+1. **[Reading 09]()**
+1. **[Reading 10]()**
+1. **[Reading 11]()**
+1. **[Reading 12]()**
+1. **[Reading 13]()**
+1. **[Reading 14]()**
+1. **[Reading 15]()**
+
 
 
 ### Biography
