@@ -19,21 +19,21 @@
 
 Readings |
 ------------ |
-1. **[Reading 01]()**
-1. **[Reading 02]()**
-1. **[Reading 03]()**
-1. **[Reading 04]()**
-1. **[Reading 05]()**
-1. **[Reading 06]()**
-1. **[Reading 07]()**
-1. **[Reading 08]()**
-1. **[Reading 09]()**
-1. **[Reading 10]()**
-1. **[Reading 11]()**
-1. **[Reading 12]()**
-1. **[Reading 13]()**
-1. **[Reading 14]()**
-1. **[Reading 15]()**
+1. **[Reading 01]()** |
+1. **[Reading 02]()** |
+1. **[Reading 03]()** |
+1. **[Reading 04]()** |
+1. **[Reading 05]()** |
+1. **[Reading 06]()** |
+1. **[Reading 07]()** |
+1. **[Reading 08]()** |
+1. **[Reading 09]()** |
+1. **[Reading 10]()** |
+1. **[Reading 11]()** |
+1. **[Reading 12]()** |
+1. **[Reading 13]()** |
+1. **[Reading 14]()** |
+1. **[Reading 15]()** |
 
 
 
