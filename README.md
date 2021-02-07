@@ -21,8 +21,8 @@ Code 102 Reading Notes |
 
 Code 201 Reading Notes |
 ------------ |
-**[Reading 01]()** |
-**[Reading 02]()** |
+**[Class-01 Reading](https://naji-albatayneh.github.io/reading-notes/class-01.md)** |
+**[Class-02 Reading](https://naji-albatayneh.github.io/reading-notes/class-02.md)** |
 **[Reading 03]()** |
 **[Reading 04]()** |
 **[Reading 05]()** |
