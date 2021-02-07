@@ -17,7 +17,9 @@
 **- Opening tags may have attributes, which provide more details about the contentthe tag contains**
 
 **- Each attribute in HTML requires a name and an assigned value**
+
 ________________________________________________________
+
 
 # EXTRA MARKUP IN HTML
 
@@ -40,6 +42,7 @@ ________________________________________________________
 **- We can use \<iframe\> tag to view another HTML page inside a frame in an HTML page**
 
 **- Escape characters are used to include special characters in webpages such as \< and \>**
+
 ________________________________________________________
 
 # NEW HTML5 LAYOUT ELEMENTS
@@ -90,7 +93,7 @@ ________________________________________________________
 
 **- We can use flowcharts to design the script**
 
-**- Javascript can be written internally within a \<script\> tag at the end of the \<body\> tag** or externally in a saperat file**
+**- Javascript can be written internally within a \<script\> tag at the end of the \<body\> tag or externally in a saperat file**
 
 ________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
