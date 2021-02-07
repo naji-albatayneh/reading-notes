@@ -5,9 +5,10 @@
 **- Structural Markup: using tags to discribe the structure of a webpage**
 **- Semantic Markup: using tags to add extra information about the content**
 
-**- Heading tags**
+- Heading tags
 h1 tag is used for the main heading, we should not use more than one h1 tag in a webpage.
-we can use h1, h2, h3, h4, h5, or h6 tags to structure our page's contnet.
+\<h1\> Heading 1 is used to show the main heading in an HTML page \<\/h1\>
+\<h2\> Heading 2 is used to show sub-heading in an HTML page \<\/h2\>
 
 \<p\> paragraph \<\/p\>
 
