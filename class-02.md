@@ -16,13 +16,13 @@
 
 - \<i\> *Italic Text* \</i\>
 
-- <sup\> is used to superscript
+- \<sup\> is used to superscript
 
-- <sub\> is used to subscript
+- \<sub\> is used to subscript
 
-- <br /\> is used to end a paragraph and make a new line
+- \<br /\> is used to end a paragraph and make a new line
 
-- <hr /\> is used to make ahorizantal line indicating brek between themes
+- \<hr /\> is used to make ahorizantal line indicating brek between themes
 
 - Visual editors and Code views are used to save the developer's time by providing shortcuts to add and edit some features in the code
 
@@ -30,49 +30,42 @@
 
 - \<em\> *Text of emphisize, will appear italic by defult* \</em\>
 
+- \<blockquote\> is used to quote a block of content, while \<q\> can be used for shorter quotes
 
 ________________________________________________________
+
 # INRODUCING CSS
 
+**- CSS tells the web browser how the content should look like to the user**
+
+**- CSS can be used in three ways: 
+- Inline: as an attribute within an HTML element
+- Internally: within an HTML document in the \<head\> tag
+- Externally: in a seperate file (THE BEST PRACTICE because we can use the same style to other pages without rewriting the CSS code)
+
+**- We  can use different selectors to select elements in CSS to add styling to them**
+
+**- Box model: each element is surrounded by a virtual box of some features control how the element should appear to the user**
+
 ________________________________________________________
+
 # JAVASCRIPT
 
+**- `var` is used to declare variables**
 
-**Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like \# or \*.**
+**-There are three different data types in js:**
+- Numerical
+- String
+- Boolean
 
-The following are some samples showing how to style some features using Markdown:
+**- Arrays can hold multiple values of the same data type**
 
-**1. Headers in Markdown:**
-
-Syntax in Markdown | Crossponding style in HTML
------------- | -------------
-\# text | This is an \<h1\> tag
-\#\# text | This is an \<h2\> tag
-\#\#\#\#\#\# text | This is an \<h6\> tag
-
-**2. Emphasis in Markdown:**
-
-Syntax in Markdown | 
------------- | 
-\**This text will be italic*\* |
-\__This will also be italic_\_ |
-\*\***This text will be bold**\*\* |
-\_\___This will also be bold__\_\_ |
-\__You **\*\*can\*\*** combine them\__ |
-
-
-**3. Unordered Lists in Markdown:**
-
-Syntax in Markdown | 
------------- | 
-\* Item 1 |
-\* Item 2 |
-  \* Item 2a |
-  \* Item 2b |
-
-**You can find out more [here](https://guides.github.com/features/mastering-markdown/)**
-
-
+**- Operators:**
+- Assignment operators
+- Arithmetic operators
+- String operators
+- Logical operators
+- Comparission operators
 
 
 ________________________________________________________
