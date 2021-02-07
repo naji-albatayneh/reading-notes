@@ -3,24 +3,38 @@
 # TEXT IN HTML
 
 **- Structural Markup: using tags to discribe the structure of a webpage**
-**- Semantic Markup: using tags to add extra information about the content**
-
-- Heading tags
-h1 tag is used for the main heading, we should not use more than one h1 tag in a webpage.
-\<h1\> Heading 1 is used to show the main heading in an HTML page \<\/h1\>
-\<h2\> Heading 2 is used to show sub-heading in an HTML page \<\/h2\>
-
-\<p\> paragraph \<\/p\>
-
-\<b\> **Blod Text** \<\/b\> 
+**- Semantic Markup: using tags to add extra information about the content but will not afect the structure**
 
 
+- \<h1\> Heading 1 is used to show the main heading in an HTML page, text will appear large \</h1\>
+
+- \<h2\> \<h3\> \<h4\> \<h5\> \<h6\> are used to show sub-heading in an HTML page
+
+- \<p\> paragraph \</p\>
+
+- \<b\> **Blod Text** \</b\> 
+
+- \<i\> *Italic Text* \</i\>
+
+- <sup\> is used to superscript
+
+- <sub\> is used to subscript
+
+- <br /\> is used to end a paragraph and make a new line
+
+- <hr /\> is used to make ahorizantal line indicating brek between themes
+
+- Visual editors and Code views are used to save the developer's time by providing shortcuts to add and edit some features in the code
+
+- \<strong\> **Text of strong inportance, will appear bold by defult** \</strong\>
+
+- \<em\> *Text of emphisize, will appear italic by defult* \</em\>
 
 
-
+________________________________________________________
 # INRODUCING CSS
 
-
+________________________________________________________
 # JAVASCRIPT
 
 
