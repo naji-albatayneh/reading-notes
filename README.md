@@ -27,7 +27,7 @@ Code 201 Reading Notes |
 **[Class-04 Reading](https://naji-albatayneh.github.io/reading-notes/class-04)** |
 **[Class-05 Reading](https://naji-albatayneh.github.io/reading-notes/class-05)** |
 **[Class-06 Reading](https://naji-albatayneh.github.io/reading-notes/class-06)** |
-**[Reading 07]()** |
+**[Class-07 Reading](https://naji-albatayneh.github.io/reading-notes/class-07)** |
 **[Reading 08]()** |
 **[Reading 09]()** |
 **[Reading 10]()** |
