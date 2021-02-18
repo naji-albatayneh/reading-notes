@@ -30,7 +30,7 @@ Code 201 Reading Notes |
 **[Class-07 Reading](https://naji-albatayneh.github.io/reading-notes/class-07)** |
 **[Class-08 Reading](https://naji-albatayneh.github.io/reading-notes/class-08)** |
 **[Class-09 Reading](https://naji-albatayneh.github.io/reading-notes/class-09)** |
-**[Reading 10]()** |
+**[Class-10 Reading](https://naji-albatayneh.github.io/reading-notes/class-10)** |
 **[Reading 11]()** |
 **[Reading 12]()** |
 **[Reading 13]()** |
