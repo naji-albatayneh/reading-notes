@@ -12,6 +12,16 @@
 
 - **From JavaScript code, we can access HTML5 Storage through the `localStorage object` on the `global window object`. Before we can use it, we should detect whether the browser supports it or not by using `Modernizr`.**
 
+- **We can use `JSON` to `stringify` objects in a format that can be stored in a local storage.**
+- Ex.: `JSON.stringify(object or array);`
+
+- **We can use `JSON` to `parse` values stored in a local storage to object format that can be used in javascript.**
+- Ex.: `JSON.parse(key from the local storage);`
+
+- **We can use `localStorage.setItem('key','value')` to store a pair of key-value format.**
+
+- **We can use `localStorage.getItem('key')` to get the value of the key.**
+
 ________________________________________________________
 ##### Naji A. Albatayneh | Ph.D (IT) | Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Selangor, Malaysia
 
