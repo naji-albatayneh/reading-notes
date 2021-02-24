@@ -34,7 +34,8 @@ Code 201 Reading Notes |
 **[Class-11 Reading](https://naji-albatayneh.github.io/reading-notes/class-11)** |
 **[Class-12 Reading](https://naji-albatayneh.github.io/reading-notes/class-12)** |
 **[Class-13 Reading](https://naji-albatayneh.github.io/reading-notes/class-13)** |
-**[Reading 14]()** |
+**[Class-14a Reading](https://naji-albatayneh.github.io/reading-notes/class-14a)** |
+**[Class-14b Reading](https://naji-albatayneh.github.io/reading-notes/class-14b)** |
 **[Reading 15]()** |
 
 
