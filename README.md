@@ -1,8 +1,10 @@
-# Welcome to Read Notes Page
+# Reading Notes
 
-### Table of Content
+**This personal website is used to keep track of the new knowledge learnt from the Software Development Course provided by ASAC-LTUC. This course compreses multiple levels as follows:**
 
-#### Code 102 Reading Notes
+# Table of Content
+
+## Code 102 - Intro to Software Development
 
 Code 102 Reading Notes |
 ------------ |
@@ -17,7 +19,7 @@ Code 102 Reading Notes |
 **[Reading 06a](https://naji-albatayneh.github.io/reading-notes/Reading06a)** |
 
 
-#### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 Code 201 Reading Notes |
 ------------ |
@@ -39,8 +41,21 @@ Code 201 Reading Notes |
 **[Reading 15]()** |
 
 
+## Code 301 - Intermediate Software Development
+
+Code 301 Reading Notes |
+------------ |
+
+
+## Code 401 - Advanced Software Development
+
+Code 401 Reading Notes |
+------------ |
+
+
 ________________________________________________________
-### Biography
+
+## Biography
 **_Naji A. Albatayneh_ is about to complete his Doctorate of Philosophy degree in Information Technology from the Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Malaysia. However, in the year of 2009, Naji A. Albatayneh received his Bachelor degree in Computer Science from The Faculty of Information Technology and Computer Science, Yarmouk University, Irbid, Jordan. He had taught IT subjects to elementary and secondary levels in Jordan before he went overseas for his postgraduate studies. In Oct. 2012, he received his Master degree in Computer Science from the Faculty of Computing and Informatics, Multimedia University, Cyberjaya, Malaysia. Naji A. Albatayneh has been conducting research work in Information Filtering, Data Mining, Natural Language Processing, Recommender Systems, User Modelling and Personalisation, and Big Data. He has published several research articles and participated in several international conferences. Furthermore, he has worked as a part-time computer science lecturer in several colleges and academies. However, Naji A. Albatayneh is currently looking for a vacant academic capacity to continue his academic career.**
 
 ________________________________________________________
