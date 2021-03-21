@@ -38,14 +38,13 @@ Code 201 Reading Notes |
 **[Class-13 Reading](https://naji-albatayneh.github.io/reading-notes/class-13)** |
 **[Class-14a Reading](https://naji-albatayneh.github.io/reading-notes/class-14a)** |
 **[Class-14b Reading](https://naji-albatayneh.github.io/reading-notes/class-14b)** |
-**[Reading 15]()** |
 
 
 ## Code 301 - Intermediate Software Development
 
 Code 301 Reading Notes |
 ------------ |
-
+**[Read: 01 - SMACSS and Responsive Web Design](https://naji-albatayneh.github.io/reading-notes/read301-01)** |
 
 ## Code 401 - Advanced Software Development
 
