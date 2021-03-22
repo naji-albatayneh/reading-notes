@@ -45,7 +45,7 @@ Code 201 Reading Notes |
 Code 301 Reading Notes |
 ------------ |
 **[Read: 01 - SMACSS and Responsive Web Design](https://naji-albatayneh.github.io/reading-notes/read301-01)** |
-
+**[Read: 02 - jQuery, Events, and The DOM](https://naji-albatayneh.github.io/reading-notes/read301-02)** |
 ## Code 401 - Advanced Software Development
 
 Code 401 Reading Notes |
