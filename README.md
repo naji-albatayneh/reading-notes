@@ -50,6 +50,7 @@ Code 301 Reading Notes |
 **[Read: 04](#)** |
 **[Read: 05 - Heroku Deployment](https://naji-albatayneh.github.io/reading-notes/read301-05)** |
 **[Read: 06 - Node, Express, and APIs](https://naji-albatayneh.github.io/reading-notes/read301-06)** |
+**[Read: 07 - APIs continued](https://naji-albatayneh.github.io/reading-notes/read301-07)** |
 
 
 ## Code 401 - Advanced Software Development
