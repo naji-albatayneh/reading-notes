@@ -47,10 +47,11 @@ Code 301 Reading Notes |
 **[Read: 01 - SMACSS and Responsive Web Design](https://naji-albatayneh.github.io/reading-notes/read301-01)** |
 **[Read: 02 - jQuery, Events, and The DOM](https://naji-albatayneh.github.io/reading-notes/read301-02)** |
 **[Read: 03 - Flexbox and Templating](https://naji-albatayneh.github.io/reading-notes/read301-03)** |
-**[Read: 04](#)** |
+**[Read: 04 - Responsive Web Design and Regular Expressions](https://naji-albatayneh.github.io/reading-notes/read301-04)** |
 **[Read: 05 - Heroku Deployment](https://naji-albatayneh.github.io/reading-notes/read301-05)** |
 **[Read: 06 - Node, Express, and APIs](https://naji-albatayneh.github.io/reading-notes/read301-06)** |
 **[Read: 07 - APIs continued](https://naji-albatayneh.github.io/reading-notes/read301-07)** |
+**[Read: 08 - SQL](https://naji-albatayneh.github.io/reading-notes/read301-08)** |
 
 
 ## Code 401 - Advanced Software Development
