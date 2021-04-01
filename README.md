@@ -52,6 +52,7 @@ Code 301 Reading Notes |
 **[Read: 06 - Node, Express, and APIs](https://naji-albatayneh.github.io/reading-notes/read301-06)** |
 **[Read: 07 - APIs continued](https://naji-albatayneh.github.io/reading-notes/read301-07)** |
 **[Read: 08 - SQL](https://naji-albatayneh.github.io/reading-notes/read301-08)** |
+**[Read: 10 - The Call Stack and Debugging](https://naji-albatayneh.github.io/reading-notes/read301-10)** |
 
 
 ## Code 401 - Advanced Software Development
