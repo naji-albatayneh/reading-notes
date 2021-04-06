@@ -55,6 +55,7 @@ Code 301 Reading Notes |
 **[Read: 10 - The Call Stack and Debugging](https://naji-albatayneh.github.io/reading-notes/read301-10)** |
 **[Read: 11 - EJS](https://naji-albatayneh.github.io/reading-notes/read301-11)** |
 **[Read: 12 - EJS Partials](https://naji-albatayneh.github.io/reading-notes/read301-12)** |
+**[Read: 13 - Update/Delete](https://naji-albatayneh.github.io/reading-notes/read301-13)** |
 
 
 ## Code 401 - Advanced Software Development
