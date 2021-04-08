@@ -57,6 +57,7 @@ Code 301 Reading Notes |
 **[Read: 12 - EJS Partials](https://naji-albatayneh.github.io/reading-notes/read301-12)** |
 **[Read: 13 - Update/Delete](https://naji-albatayneh.github.io/reading-notes/read301-13)** |
 **[Read: 14a - DB Normalization](https://naji-albatayneh.github.io/reading-notes/read301-14a)** |
+**[Read: 15 - Diversity & Inclusion in the Tech Industry](https://naji-albatayneh.github.io/reading-notes/read301-15)** |
 
 
 ## Code 401 - Advanced Software Development
