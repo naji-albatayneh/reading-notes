@@ -52,6 +52,7 @@ Code 301 Reading Notes |
 **[Read: 06 - Node, Express, and APIs](https://naji-albatayneh.github.io/reading-notes/read301-06)** |
 **[Read: 07 - APIs continued](https://naji-albatayneh.github.io/reading-notes/read301-07)** |
 **[Read: 08 - SQL](https://naji-albatayneh.github.io/reading-notes/read301-08)** |
+**[Read: 09 - Functional Programming](https://naji-albatayneh.github.io/reading-notes/read301-09)** |
 **[Read: 10 - The Call Stack and Debugging](https://naji-albatayneh.github.io/reading-notes/read301-10)** |
 **[Read: 11 - EJS](https://naji-albatayneh.github.io/reading-notes/read301-11)** |
 **[Read: 12 - EJS Partials](https://naji-albatayneh.github.io/reading-notes/read301-12)** |
